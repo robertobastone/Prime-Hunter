@@ -1,8 +1,6 @@
 ######################### Prime Hunter
 
 # author: Roberto Bastone
-# email: robertobastone93@gmail.com
-
 
 # code
 
