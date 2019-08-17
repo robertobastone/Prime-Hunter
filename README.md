@@ -17,3 +17,10 @@ Prime hunter is a simple Python script that allows to determine whether an input
 ## Version 1.01 (August, 17 2019)
 - rewritten script up to version 1.00 according to the Object-Oriented Programming paradigm
 
+# How to run the script
+## From terminal
+- type in python in your terminal then:
+```
+import PrimeHunter
+PrimeHunter.PrimeHunter().hunter()
+```
