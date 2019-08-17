@@ -8,8 +8,12 @@ Prime hunter is a simple Python script that allows to determine whether an input
    - minimally funtioning code in Julia Language
 3. November, 16 2018: Prime Hunter Java version
    - minimally funtioning code in Java Language
+4. August, 17 2019
+   - script in OOP paradigm
 
 # Versions
-## Version 1.0.0 (October, 20 2018)
+## Version 1.00 (October, 20 2018)
 - single mode
+## Version 1.01 (August, 17 2019)
+- rewritten script up to version 1.00 according to the Object-Oriented Programming paradigm
 
