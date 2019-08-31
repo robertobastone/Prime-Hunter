@@ -18,9 +18,9 @@ class PrimeHunter:
 
 #### INITIALIZING
     def __init__(self):
-        print colored("Initializing... Prime Hunter version " + str(version), 'blue')
-        print colored("(Author: " + author+')', 'blue')
-        print colored("For info - or anything else - please, feel free to reach me at " + email, 'blue')
+        print( colored("Initializing... Prime Hunter version " + str(version), 'blue') )
+        print( colored("(Author: " + author+')', 'blue') )
+        print( colored("For info - or anything else - please, feel free to reach me at " + email, 'blue') )
 
     def hunter(self):
         div = 2
@@ -39,7 +39,7 @@ class PrimeHunter:
                     self.keepOnHunting(self.yes,self.no)
                     break
             except:
-                    print colored("This is not an integer.",'red')
+                    print( colored("This is not an integer.",'red') )
                     continue
 
     ### KEEP ON Hunting?
@@ -58,5 +58,5 @@ class PrimeHunter:
 
     ### SAYING GOODBYE
     def sayingGoodbye(self):
-        print colored("Terminating... Prime Hunter version " + str(version),'blue')
-        print colored("If you find any bug, please do not hesitate to contact me at "+ email,'blue')
+        print( colored("Terminating... Prime Hunter version " + str(version),'blue') )
+        print( colored("If you find any bug, please do not hesitate to contact me at "+ email,'blue') )
