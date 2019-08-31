@@ -1,15 +1,17 @@
 # Prime Hunter
 Prime hunter is a simple Python script that allows to determine whether an inputted number is prime or not.
 
-# Milestones 
+# Milestones
 1. October, 30 2018: Prime Hunter 1.0.0
-   - minimally functioning code
+   - minimally functioning code (Python 2)
 2. October, 31 2018: Prime Hunter Julia version
    - minimally funtioning code in Julia Language
 3. November, 16 2018: Prime Hunter Java version
    - minimally funtioning code in Java Language
 4. August, 17 2019
-   - script in OOP paradigm
+   - script in OOP paradigm (Python 2)
+5. August, 31 2019
+  - added script compatible with Python 3
 
 # Versions
 ## Version 1.00 (October, 20 2018)
