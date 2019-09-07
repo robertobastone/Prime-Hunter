@@ -45,7 +45,7 @@ class PrimeHunter:
     ### KEEP ON Hunting?
     def keepOnHunting(self, yes, no):
         while True:
-            choice = raw_input(">Do you want to hunt again? [y/n] \n").lower()
+            choice = input(">Do you want to hunt again? [y/n] \n").lower()
             if choice in yes:
                 self.hunter()
                 break
