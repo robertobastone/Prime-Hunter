@@ -1,7 +1,6 @@
 ######################### Prime Hunter (Python)
 
 author = 'Roberto Bastone'
-email = 'robertobastone93@gmail.com'
 
 version = 1.01
 # code
@@ -20,7 +19,6 @@ class PrimeHunter:
     def __init__(self):
         print colored("Initializing... Prime Hunter version " + str(version), 'blue')
         print colored("(Author: " + author+')', 'blue')
-        print colored("For info - or anything else - please, feel free to reach me at " + email, 'blue')
 
     def hunter(self):
         div = 2
