@@ -1,7 +1,6 @@
 ######################### Prime Hunter (Python)
 
 author = 'Roberto Bastone'
-email = 'robertobastone93@gmail.com'
 
 version = 1.01
 sunflower_colour = '#fe7d00'
